@@ -5,7 +5,9 @@ Um **resistor** é um componente elétrico *passivo* com a função primária de
 Graficamente os resistores podem ser identificados por essas imagens:
 
 <p align="center">
-IEEE - Institute of Electrical and Electronics Engineers <br /><br />  
+<img src="/img/IEEE.jpg" />  <br />
+IEEE - Institute of Electrical and Electronics Engineers <br />
+<img src="/img/ICE.jpg" />  <br />
 IEC - International Electrotechnical Commision
 </p>
 
